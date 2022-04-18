@@ -4,7 +4,7 @@ This software is a basic "Hell World" program.
 
 The purpose of this software is to print out in the console a message for the user saying "Hello World." I created this program to demonstrate the use of Visual Studio Code, GitHub, and Python integrated in the same workflow. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/DS8kjPQvZZg)
 
 # Development Environment
 
